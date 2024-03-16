@@ -56,7 +56,7 @@ Finally, the best performing model which is the Decision Tree model has been dep
 To run the program, please follow the following instructions:
 
 1. Download data and edit corresponding path in .ipynb file to retrieve the data
-2. Run the `.ipynb` on Jupyter  
+2. Run the `Electrical_Fault_Detection_and_Classification.ipynb` on Jupyter  
 
 
 ## Contact the Author  
