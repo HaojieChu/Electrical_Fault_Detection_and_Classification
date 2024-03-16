@@ -29,6 +29,6 @@ To run the program, please follow the following instructions:
 
 If you got any enquiries or suggestions, I'm all ears :sunglasses:  
 
-- **Institution:**  University of Malaya  :mortar_board: Graduates  
+- **Institution:**  University of Malaya  :mortar_board: Data Science Graduate  
 - **Author** Haojie Chu
 - **Academic E-mail:** hjchuyu5@gmail.com
